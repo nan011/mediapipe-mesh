@@ -6,3 +6,13 @@ This is a code snippet that can convert 468 mediapipe fatial landmarks into a .o
 ![](./data/landmarks.jpg)
 ![](./data/texture-landmark.jpg)
 ![](./data/demo.gif)
+
+# Tested environment
+- python v3.10.12
+- pip v22.0.2
+
+# Setup
+## Instal requirements
+```
+pip install -r requirements.txt
+```
