@@ -1,0 +1,8 @@
+opencv-python==4.9.0.80
+matplotlib==3.8.4
+numpy==1.26.4
+mediapipe==0.10.14
+scikit-image==0.23.2
+notebook==7.1.3
+ipykernel==6.29.4
+plotly==5.22.0
