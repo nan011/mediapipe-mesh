@@ -12,7 +12,7 @@ This is a code snippet that can convert 468 mediapipe fatial landmarks into a .o
 - pip v22.0.2
 
 # Setup
-## Instal requirements
+## Install Requirements
 ```
 pip install -r requirements.txt
 ```
